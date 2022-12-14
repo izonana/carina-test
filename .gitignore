@@ -1,7 +1,7 @@
 .idea
-build
-target
-out
-.settings
-.DS_Store
 reports
+target
+.settings
+build
+out
+.DS_Store

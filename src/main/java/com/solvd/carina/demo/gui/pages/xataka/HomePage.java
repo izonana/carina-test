@@ -21,4 +21,7 @@ public class HomePage extends AbstractPage {
         setPageAbsoluteURL(R.CONFIG.get(Configuration.Parameter.URL.getKey()));
     }
 
+    public FooterMenu getFooterMenu() {
+        return footerMenu;
+    }
 }
